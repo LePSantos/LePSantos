@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Snake](https://github.com)
+<img src="https://githubusercontent.com" alt="GitHub Snake" />
+
 
 
 <!--
